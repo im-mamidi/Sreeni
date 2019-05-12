@@ -12,6 +12,7 @@
 	<artifactId>mobileProvider</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mobileProvider</name>
+	<packaging>war</packaging>
 	<description>this api will provide date for the consumer</description>
 
 	<properties>
